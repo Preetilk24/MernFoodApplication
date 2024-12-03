@@ -47,5 +47,5 @@ A full-stack food ordering and management application built using the **MERN (Mo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/mern-food-app.git
-   cd mern-food-app
+   git clone https://github.com/Preetilk24/MernFoodApplication.git
+   cd MernFoodApplication
