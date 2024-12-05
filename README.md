@@ -43,7 +43,11 @@ A full-stack food ordering and management application built using the **MERN (Mo
 
 
 
+
+### Reach out for admin code
+email-https://www.linkedin.com/in/preetilk
 ## Installation and Setup
+
 
 1. **Clone the Repository**
    ```bash
